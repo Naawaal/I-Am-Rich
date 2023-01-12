@@ -1,6 +1,10 @@
-# i_am_rich
+# I Am Rich
 
-A new Flutter project.
+Once upon a time, there was a young man named Alex. He was born into a wealthy family and had never known anything but luxury and privilege. He had always been told that he was rich and that money could buy him anything he wanted.
+
+As he grew older, Alex began to realize that his wealth brought him little joy. He had everything he could ever want, but he felt empty and unfulfilled. He had never had to work for anything in his life and had never truly accomplished anything on his own.
+
+One day, Alex decided to take a walk in the park to clear his head
 
 ## Getting Started
 
